@@ -1,0 +1,5 @@
+source_id|label|category|freshness_days
+src_sharepoint|SharePoint Knowledge Library|knowledge|2
+src_policy|Policy and Procedure Documents|policy|5
+src_product|Product Guidance Portal|product|1
+src_compliance|Compliance Reference Notes|compliance|3

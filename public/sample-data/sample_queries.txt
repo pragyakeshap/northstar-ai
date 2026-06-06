@@ -1,0 +1,4 @@
+query_id|rep_region|question|answer|sources
+q001|South Hub|What are the early withdrawal rules for a traditional retirement account?|Early withdrawals may trigger ordinary income tax and an additional penalty unless an approved exception applies. Review the policy source before sharing guidance with a client.|src_policy,src_product,src_compliance
+q002|Northeast Hub|Where can I find guidance for a rollover conversation?|Use the rollover guidance article, confirm account type, and review the latest internal policy before discussing next steps with the client.|src_sharepoint,src_product,src_policy
+q003|West Hub|How should I explain beneficiary update steps?|Confirm the client identity, review the beneficiary change procedure, and direct the representative to the approved workflow in the internal knowledge library.|src_sharepoint,src_policy

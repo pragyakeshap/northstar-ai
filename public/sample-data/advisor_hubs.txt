@@ -1,0 +1,7 @@
+hub_id|hub_name|city|state|lat|lon
+hub_west|West Hub|Denver|CO|39.7392|-104.9903
+hub_sw|Southwest Hub|Phoenix|AZ|33.4484|-112.0740
+hub_south|South Hub|Dallas|TX|32.7767|-96.7970
+hub_central|Central Hub|Chicago|IL|41.8781|-87.6298
+hub_ne|Northeast Hub|New York|NY|40.7128|-74.0060
+hub_se|Southeast Hub|Miami|FL|25.7617|-80.1918

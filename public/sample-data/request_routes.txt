@@ -1,0 +1,14 @@
+route_id|from_location_id|to_hub_id|volume|avg_latency_sec
+r001|loc_ca|hub_west|120|22
+r002|loc_wa|hub_west|70|21
+r003|loc_az|hub_sw|105|18
+r004|loc_co|hub_west|80|15
+r005|loc_tx|hub_south|160|16
+r006|loc_il|hub_central|145|14
+r007|loc_fl|hub_se|135|19
+r008|loc_ny|hub_ne|180|17
+r009|loc_nc|hub_se|90|20
+r010|loc_ga|hub_se|88|18
+r011|loc_ca|hub_sw|64|25
+r012|loc_tx|hub_central|77|22
+r013|loc_ny|hub_central|52|27

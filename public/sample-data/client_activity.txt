@@ -1,0 +1,11 @@
+location_id|region|lat|lon|volume|topic
+loc_ca|California|36.7783|-119.4179|310|retirement
+loc_wa|Seattle|47.6062|-122.3321|120|portfolio
+loc_az|Arizona|33.4484|-112.0740|180|account
+loc_co|Colorado|39.7392|-104.9903|135|planning
+loc_tx|Texas|32.7767|-96.7970|260|retirement
+loc_il|Illinois|41.8781|-87.6298|210|trading
+loc_fl|Florida|27.9506|-82.4572|240|rollover
+loc_ny|New York|40.7128|-74.0060|300|tax
+loc_nc|North Carolina|35.7796|-78.6382|145|beneficiary
+loc_ga|Georgia|33.7490|-84.3880|160|planning
